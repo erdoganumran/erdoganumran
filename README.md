@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @erdoganumran
 - 👀 I’m interested in software testing
-- 🌱 I’m currently learning software development in test
+- 🌱 I’m currently learning java and test automation
 - 💞️ I’m looking to collaborate on any projects in testing
-- 📫 You ca reach me by e-mail
+- 📫 You can reach me by e-mail
 
 <!---
 erdoganumran/erdoganumran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
